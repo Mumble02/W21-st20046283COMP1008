@@ -5,7 +5,7 @@
     Time: 6:08pm
  */
 
-import java.sql.SQLOutput;
+
 import java.util.Scanner;
 
 public class StudentTestHarness {
