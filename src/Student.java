@@ -12,7 +12,7 @@ public class Student {
     private int studentNumber;
 
     //constructor
-    public Student(String stephanie, String firstName, int i){
+    public Student(String firstName, String lastName, int studentNumber){
         setFirstName(firstName);
         setLastName(lastName);
         setStudentNumber(studentNumber);
