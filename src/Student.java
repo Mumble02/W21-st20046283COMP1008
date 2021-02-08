@@ -1,8 +1,8 @@
 /*
     Application Purpose: Student info
     Author: Stephanie Caliwag
-    Date: 2/1/21
-    Time: 6:08pm
+    Date: 2/8/21
+    Time: 8:00pm
  */
 
 import java.util.ArrayList;
