@@ -18,6 +18,7 @@ public class StudentTestHarness {
 
         Student st1 = new Student("Stephanie", "Caliwag", personalInterests, 200462383);
         System.out.printf(st1.getFirstName());
+        System.out.println();
         System.out.println(st1.getLastName());
         System.out.println(st1.getInterests());
         System.out.println(st1.getStudentNumber());
